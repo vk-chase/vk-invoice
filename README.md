@@ -36,7 +36,7 @@ serverTaxRate: Percentage of the invoice amount taken as server tax
 webhookUrl: Discord webhook URL for logging
 
 
-#Authorized jobs can create an invoice
+# Authorized jobs can create an invoice
 #Discord Webhook
 The system sends detailed information to a Discord channel via webhook:
 
@@ -45,14 +45,14 @@ Green embed: Invoice paid
 Red embed: Invoice declined
 #Each embed includes details about the invoicer, recipient, and invoice specifics.
 
-#Dependencies
+# Dependencies
 QBCore framework
 qb-banking (for bossmenu integration)
 Support
 For support, please open an issue on the GitHub repository or contact the script author.
 
-#License
+# License
 MIT License
 
-#Credits
+# Credits
 Me
